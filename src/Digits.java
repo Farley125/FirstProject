@@ -16,5 +16,6 @@ class Digits {
         String fourthDigit2 = Integer.toString(fourthDigit);
         String fifthDigit2 = Integer.toString(fifthDigit);
         System.out.print(firstDigit2 + secondDigit2 + thirdDigit2 + fourthDigit2 + fifthDigit2);
+        System.out.println("Program over!");
     }
 }
